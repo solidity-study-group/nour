@@ -1,7 +1,7 @@
 
 This repository is a part of **solidity-study-group** contains a collection of works organized into folders based on a reference course.
 
-## Folder Structure
+## Repository Structure
 
 - StorageFactory : use the factory pattern in smart contracts.
 - FundMe : create fund me contract and price converter library.
