@@ -3,8 +3,8 @@ This repository is a part of **solidity-study-group** contains a collection of w
 
 ## Repository Structure
 
-- StorageFactory : use the factory pattern in smart contracts.
-- FundMe : create fund me contract and price converter library.
+- StorageFactory :lesson 03 use the factory pattern in smart contracts.
+- FundMe :lesson 04 create fund me contract and price converter library.
 
  **Reference Course**: https://github.com/Cyfrin/foundry-full-course-f23
  
